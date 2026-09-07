@@ -116,7 +116,8 @@ img{max-width:100%;display:block}
 .axis-row{display:grid;grid-template-columns:160px 1fr;gap:34px}
 .axis-label{display:flex;align-items:flex-start;gap:17px;padding-top:4px}
 .axis-number{color:var(--blue);font-size:18px;font-weight:500}
-.axis-icon{width:66px;height:66px;border:2px solid var(--ink);border-radius:18px;position:relative;display:grid;place-items:center;font-weight:700;font-size:24px}
+.axis-icon{width:66px;height:66px;border:2px solid var(--ink);border-radius:18px;position:relative;display:grid;place-items:center;font-weight:700;font-size:24px;color:var(--ink)}
+.axis-icon .axis-arrow{display:block;line-height:1;transform:rotate(-45deg)}
 .axis-content h2{font-size:26px;margin:0 0 18px;text-transform:uppercase;letter-spacing:.02em}
 .accordion{border-top:1px solid #bfc9da}
 .accordion details{border-bottom:1px solid #ccd5e2}
