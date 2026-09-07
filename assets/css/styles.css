@@ -97,7 +97,7 @@ img{max-width:100%;display:block}
 .internal-page{background:#fff}
 .clean-hero{padding:105px 0 72px}
 .clean-hero-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:64px;align-items:center}
-.clean-hero h1{font-size:58px;line-height:1.07;letter-spacing:-.045em;margin:0;font-weight:500;max-width:470px}
+.clean-hero h1{font-size:58px;line-height:1.07;letter-spacing:-.045em;margin:0;font-weight:700;max-width:470px}
 .clean-photo img{width:100%;height:380px;object-fit:cover}
 .two-copy{display:grid;grid-template-columns:1fr 1fr;gap:84px;padding:80px 0 100px}
 .two-copy>div+div{border-left:1px solid var(--line);padding-left:70px}
@@ -106,7 +106,7 @@ img{max-width:100%;display:block}
 .axes-hero{padding:45px 0 26px}
 .axes-hero-shell{position:relative;display:grid;grid-template-columns:.85fr 1.15fr;min-height:360px;align-items:stretch;overflow:hidden}
 .axes-hero-copy{padding:58px 50px 56px 0;z-index:2;background:linear-gradient(90deg,#fff 84%,rgba(255,255,255,.78) 100%)}
-.axes-hero-copy h1{font-size:52px;line-height:1.06;margin:0 0 16px;font-weight:500;letter-spacing:-.045em}
+.axes-hero-copy h1{font-size:52px;line-height:1.06;margin:0 0 16px;font-weight:700;letter-spacing:-.045em}
 .axes-hero-copy .lead{font-size:14px;margin:0;max-width:520px}
 .axes-visual{position:relative;overflow:hidden;border-radius:0 2px 2px 0}
 .axes-visual img{width:100%;height:100%;object-fit:cover}
@@ -131,7 +131,7 @@ img{max-width:100%;display:block}
 .monitor-hero{padding:45px 0 28px}
 .monitor-shell{display:grid;grid-template-columns:1fr 1fr;min-height:500px;align-items:center;background:linear-gradient(90deg,#fff 45%,#f4f8ff 45%);overflow:hidden;position:relative}
 .monitor-copy{padding:58px 55px 58px 0}
-.monitor-copy h1{font-size:50px;line-height:1.08;margin:0 0 22px;letter-spacing:-.045em}
+.monitor-copy h1{font-size:50px;line-height:1.08;margin:0 0 22px;letter-spacing:-.045em;font-weight:700}
 .monitor-sub{font-size:16px;color:#36445f;margin:0}
 .monitor-visual{height:100%;min-height:500px;display:flex;align-items:center;justify-content:center;position:relative}
 .monitor-visual img{width:100%;height:100%;object-fit:cover}
